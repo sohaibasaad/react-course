@@ -1,4 +1,4 @@
-import React from 'react'
+import React , {useEffect} from 'react'
 import "./App.css"
 import Test from "./app-1/Test";
 import App2Main from './app-2/App2Main';

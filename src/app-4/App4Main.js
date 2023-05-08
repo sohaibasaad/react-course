@@ -1,12 +1,15 @@
-import React, { useState, useEffect } from 'react'
-import axios from 'axios'
+import React, { useEffect, useContext } from 'react'
 import BookCreate from './BookCreate'
 import BookList from './BookList'
 import './library.css'
 import "../App.css"
 import { NavLink } from 'react-router-dom';
+import BooksContext from './context/books'
 
 function App4Main() {
+
+  const {fetchBooks} = useContext(BooksContext);
+
   useEffect(() => {
     fetchBooks();
   }, []);
