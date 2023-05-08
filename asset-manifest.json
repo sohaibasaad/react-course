@@ -1,0 +1,20 @@
+{
+  "main.css": "/react-course/static/css/main.b4f37a06.chunk.css",
+  "main.js": "/react-course/static/js/main.c8446711.chunk.js",
+  "main.js.map": "/react-course/static/js/main.c8446711.chunk.js.map",
+  "runtime~main.js": "/react-course/static/js/runtime~main.e1832b59.js",
+  "runtime~main.js.map": "/react-course/static/js/runtime~main.e1832b59.js.map",
+  "static/js/2.953ec56f.chunk.js": "/react-course/static/js/2.953ec56f.chunk.js",
+  "static/js/2.953ec56f.chunk.js.map": "/react-course/static/js/2.953ec56f.chunk.js.map",
+  "index.html": "/react-course/index.html",
+  "precache-manifest.60400fead1f7598220a78a99a18f157c.js": "/react-course/precache-manifest.60400fead1f7598220a78a99a18f157c.js",
+  "service-worker.js": "/react-course/service-worker.js",
+  "static/css/main.b4f37a06.chunk.css.map": "/react-course/static/css/main.b4f37a06.chunk.css.map",
+  "static/media/bird.svg": "/react-course/static/media/bird.a666a093.svg",
+  "static/media/cat.svg": "/react-course/static/media/cat.a4ecaf5f.svg",
+  "static/media/cow.svg": "/react-course/static/media/cow.d2066a8a.svg",
+  "static/media/dog.svg": "/react-course/static/media/dog.52e6bfb7.svg",
+  "static/media/gator.svg": "/react-course/static/media/gator.ead92468.svg",
+  "static/media/heart.svg": "/react-course/static/media/heart.38abe518.svg",
+  "static/media/horse.svg": "/react-course/static/media/horse.05a990ad.svg"
+}
